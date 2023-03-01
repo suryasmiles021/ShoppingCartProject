@@ -1,2 +1,2 @@
 FROM tomcat
-COPY shoppingcart/local/tomcat/webapps/
+COPY shoppingcart/local/tomcat/webapps
